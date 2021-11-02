@@ -2,7 +2,9 @@
 
 Repositório template para os labs da disciplina de Paradigmas de Linguagem de Programação.
 
-#Instalação 
+#LAB1
+##Instalação
 sudo apt-get install gnat-gps
-gnatmake intattrs.adb
-./intattrs
+cd lab1
+gnatmake frog.adb
+./frog
